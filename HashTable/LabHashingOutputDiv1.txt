@@ -1,0 +1,38 @@
+Method: Division
+Runtime: 7265 milliseconds 
+================================
+Hash Table Size: 120
+Bucket Size: 1
+Input Key Size: 120
+Load Factor: 1.0
+Primary Collisions: 13
+Secondary Collisions: 6
+Total Collisions: 19
+Keys Not Inserted: 0
+
+ Resulting Hash table 
+
+- - - X X 
+- - - - - 
+- X X X X 
+X X - - X 
+- X X X X 
+X - - - X 
+- X - - X 
+- X X - X 
+X X - X - 
+X X - X - 
+- X X - - 
+- - - X X 
+X X X X - 
+X X - - - 
+- X X X X 
+- - X - X 
+X X - X - 
+- - X - - 
+X X X X - 
+- - - - X 
+- X X - - 
+- - X - - 
+- X - X - 
+X X - X X 

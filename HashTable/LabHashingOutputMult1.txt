@@ -1,0 +1,39 @@
+Method: Multiplication
+Runtime: 16793 milliseconds 
+================================
+Hash Table Size: 120
+Bucket Size: 1
+Multiplier: 0.8
+Input Key Size: 120
+Load Factor: 1.0
+Primary Collisions: 5
+Secondary Collisions: 50
+Total Collisions: 55
+Keys Not Inserted: 0
+
+ Resulting Hash table 
+
+X X X X X 
+X X X X X 
+- - - - - 
+- - - - - 
+- - - - X 
+X X X X X 
+X X X X - 
+- - - - - 
+- - - - - 
+- - - X X 
+X X X X X 
+X X X X - 
+- - - - - 
+- - - - - 
+- - X X X 
+X X - - - 
+- - - - - 
+- - - - - 
+- - - - - 
+- X X X X 
+X X X X X 
+X X X X X 
+X X X X X 
+X X X X X 
